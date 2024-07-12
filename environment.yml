@@ -21,3 +21,4 @@ dependencies:
     - scikit-learn
     - numpy
     - scipy
+    - seaborn
